@@ -1,0 +1,58 @@
+#wrapped{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  gap:2px;
+  background-color: aquamarine;
+  margin-left: 800px;
+
+  
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color:deeppink;
+}
+
+.box{
+   padding:15px;
+   background-color:red;
+   border-radius: 45px;
+  
+}
+.box2{
+  padding:15px;
+  background-color:blue;
+  border-radius: 45px;
+
+
+}
+.box3{
+  padding:15px;
+  background-color: darkorchid;
+  border-radius: 45px;
+
+}
+
+
+
+
+       
+     
+
+
+
+
+
+
+
+
+
+  
+
+
+  
